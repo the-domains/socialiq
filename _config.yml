@@ -1,28 +1,36 @@
-name: Socialiq.ch
-favicon: null
-layout_spectrum: 0.8517399460542947
-typography_spectrum: 0.8462319453246891
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.250693368492648
-  lightness: 0.03303254279308021
-  saturation: 0.4447267472278327
-  rhythmicContrast: 0.33038973435759544
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#000000'
+  rhythmicContrast: 0
+typography_spectrum: 0.3468085
+layout_spectrum: 0.7340425
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: Socialiq.ch
