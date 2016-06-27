@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Socialiq.ch]]></title>
+        <description><![CDATA[Socialiq.ch]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 21:25:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hey People!]]></title>
+            <description><![CDATA[<article><h1>Hey People!</h1><p><a href="https://spark.adobe.com/page/8fcsD/"><img src="https://spark.adobe.com/page/8fcsD/embed.jpg" alt="social iQ" style="width:100%" border="0" /></a></p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1e7723da9c66e9dd618d695db2f88222/croprotate.jpg?cropheight=2177&cropwidth=3264&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcc5d63dd-5c10-4335-a195-81c9796a65af.jpg&x=0&y=0"></article>]]></description>
+            <link>undefinedhey-people/index.html</link>
+            <guid isPermaLink="false">f8fcf6e1-15c1-487f-8b7f-22066c80aa86</guid>
+            <pubDate>Mon, 27 Jun 2016 21:25:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
